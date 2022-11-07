@@ -31,10 +31,28 @@
     There are a large number of potential reasons that could have caused this pattern, but they would all require further investigation, which is beyond the scope of this project.<br /></li>
     <li>There is also a subtle trend in the scores of movies over the course of the year.  This is mostly likely caused by the impact of Oscar award nominations and the release of big-budget movies in the summer months.
     </ol>
-    
+    <h4>The Project</h4>
+    This project itself was interesting. There is a lot here that I was unaware of before this class. 
+    <li>Scraping websites is easier than I had imagined. </li>
+    <li>MongoDB has repeatedly impressed me with it's user-friendly database setup, and sheer power for pulling data. The user-friendliness of the JSON queries themselves is less impressive, when compared to ANSI SQL.</li>
+    <li>I had worked with Python graphing capabilties before, but this project granted me the opportunity to explore them further.</li>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <h2>Technical Requirements</h2>
+    <h3>Required Python Libraries</h3>
+    <li>urllib3</li>
+    <li>certifi</li>
+    <li>re</li>
+    <li>pandas</li>
+    <li>pymongo</li>
+    <li>json</li>
+    <li>matplotlib</li>
+    <li>scipy</li>
+    <li>numpy</li>
+    <li>seaborn</li>
+    <br />
+    <h3>Project Code</h3>
+    <a href="https://github.com/stuartketcham/DA320-Midterm"><strong>Repo »</strong></a>
     <br />
     <br />
 
