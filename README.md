@@ -17,7 +17,7 @@
     <b>File:</b> <i>KetchamStuart-MetacriticGraphs.ipynb</i><br />
     <b>Data:</b> The data from Step 1 is pulled back from MongoDB<br />
     <b>Reporting Method:</b> Graphical reporting using MatPlotLib and Seaborn<br />
-    <b>Content:</b> <br />
+    <b>Content:</b><br />
     <ul>
         <li>Average Movie Metascore by Year</li>
         <li>Score Trends by Month of the Year</li>
