@@ -51,11 +51,15 @@
     <li>numpy</li>
     <li>seaborn</li>
     <br />
-    <h3>Project Code</h3>
-    <a href="https://github.com/stuartketcham/DA320-Midterm"><strong>Repo »</strong></a>
+    <h2>License</h2>
+    Distributed under the MIT License. See LICENSE.txt for more information.
     <br />
+    <h2>Contact</h2>    
+    Owner: <a href="https://www.stuartketcham.com/">Stuart Ketcham</a>
+    Project Link: <a href="https://github.com/stuartketcham/DA320-Midterm"><strong>https://github.com/stuartketcham/DA320-Midterm »</strong></a>
     <br />
-
-
+    <h2>Acknowledgments</h2>
+    <li>Professor Theodore Spence</li>
+    <li>Bellevue College</li>
 
 </p>
