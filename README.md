@@ -18,10 +18,20 @@
     <b>Data:</b> The data from Step 1 is pulled back from MongoDB<br />
     <b>Reporting Method:</b> Graphical reporting using MatPlotLib and Seaborn<br />
     <b>Content:</b> <br />
-    <li>Average Movie Metascore by Year</li>
-    <li>Score Trends by Month of the Year</li>
+    <ul>
+        <li>Average Movie Metascore by Year</li>
+        <li>Score Trends by Month of the Year</li>
+    </ul>
+    <br />
     <h3>Conclusions</h3>
-    <b>
+    <h4>Reporting</h4>
+    The data itself show some interesting trends. 
+    <ol>
+    <li>It appears that Metacritic scores have been on the rise from 2000 to 2005, plateaued from 2005 to 2015, and rose sharply from 2015-2022.<br />
+    There are a large number of potential reasons that could have caused this pattern, but they would all require further investigation, which is beyond the scope of this project.<br /></li>
+    <li>There is also a subtle trend in the scores of movies over the course of the year.  This is mostly likely caused by the impact of Oscar award nominations and the release of big-budget movies in the summer months.
+    </ol>
+    
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
