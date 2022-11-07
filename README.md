@@ -33,7 +33,7 @@
     </ol>
     <h4>The Project</h4>
     This project itself was interesting. There is a lot here that I was unaware of before this class. 
-    <li>Scraping websites is easier than I had imagined. </li>
+    <li>Scraping websites is both easier and harder than I had imagined. </li>
     <li>MongoDB has repeatedly impressed me with it's user-friendly database setup, and sheer power for pulling data. The user-friendliness of the JSON queries themselves is less impressive, when compared to ANSI SQL.</li>
     <li>I had worked with Python graphing capabilties before, but this project granted me the opportunity to explore them further.</li>
     <br />
